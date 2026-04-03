@@ -1,1 +1,1 @@
-# [Simon-Game] (https://shubhamkotak2005.github.io/Simon-Game/)
+# [Simon-Game](https://shubhamkotak2005.github.io/Simon-Game/)
